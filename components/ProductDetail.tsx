@@ -154,7 +154,8 @@ export const ProductDetail: React.FC<ProductDetailProps> = ({ product, onBack, o
                     <ShieldCheck className="text-brand-600 shrink-0" />
                     <div>
                         <div className="font-semibold text-gray-900">Bảo hành uy tín</div>
-                        <div className="text-xs text-gray-500">Trung tâm bảo hành toàn quốc</div                  </div>
+                        <div className="text-xs text-gray-500">Trung tâm bảo hành toàn quốc</div>
+                    </div>
                 </div>
                 <div className="flex items-start gap-3">
                     <Truck className="text-brand-600 shrink-0" />
